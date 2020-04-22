@@ -24,7 +24,7 @@ tel: +358413688612
 tel_full: tel:+358413688612
 address:
   street: Maunulanmaki
-  postcode: 00630
+  postcode: '00630'
   city: Helsinki
   country: Finland
 
